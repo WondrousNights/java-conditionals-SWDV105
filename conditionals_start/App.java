@@ -15,7 +15,7 @@ public class App {
             return;
         }
 
-        // ESSON: Conditionals
+        // LESSON: Conditionals
         int employeeId = employee.id; // ID of employee
         String employeeName = employee.name; //Name of employee
         String employeeTitle = employee.title; //CEO, Manager, Employee, Guest
